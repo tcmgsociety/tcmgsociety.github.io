@@ -17,11 +17,18 @@
   text-align: center;
   text-decoration: none;
   border-radius: 50%;
+  color: white;
 }
 .fa:hover {
   opacity: 0.7;
 }
 
+.fa-github {
+  color: white;
+}
+.fa-github:hover{
+  opacity: 0.7;
+}
 .fa-twitter {
   color: white;
 }
@@ -98,21 +105,26 @@ body, html {
   0 0 102px #008CBA,
   0 0 151px #008CBA;
 }
+
 .container {
   position: relative;
   width: 100%;
-  overflow: hidden;
-  padding-top: 100%; /* 1:1 Aspect Ratio */
+  height:auto;
+  padding-top: 100%;
 }
 .responsive-iframe {
   position: absolute;
   top: 0;
   left: 0;
-  bottom: 0;
   right: 0;
+  bottom:0;
   width: 100%;
   height: 100%;
   border: none;
+}
+.responsive-image {
+  max-width: 100%;
+  height:auto;
 }
 .button {
   border: none;
@@ -158,6 +170,15 @@ transform: translate(-50%, 0%) rotate(45deg);
 animation:         fade_move_down 4s ease-in-out infinite;
 }
 
+#banner {
+  display: flex;
+  justify-content: space-between;
+}
+
+#banner-image {
+  width: auto;
+  height: 75px;
+}
 
 /*animated scroll arrow animation*/
 @-webkit-keyframes fade_move_down {
