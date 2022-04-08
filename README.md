@@ -16,9 +16,9 @@ Our vision is to produce impactful and successful technology management leaders 
 
 ### Repository Access
 
-Add yourself as a collaborator in our GitHub repository if you haven't already. [HERE](https://github.com/tcmgsociety/tcmgsociety.github.io)
+**EDITS** Due to changing our profile from personal to organizaiton, please message either Jacob or Paula to add you as a collaborator to our organization, which gives you access to our platform. You should not need to make yourself a collaborator to our repo [HERE](https://github.com/tcmgsociety/tcmgsociety.github.io).
 
-If you have, feel free to skip this section. If you have not, here are the steps.
+If you have collaborator access to the repository, feel free to skip this section. If you have not, here are the steps.
 
 ```text
 > Go to its respective repo, for example: https://github.com/tcmgsociety/tcmgsociety.github.io
