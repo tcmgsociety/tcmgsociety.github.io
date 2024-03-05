@@ -64,4 +64,4 @@ Click ```Open in Visual Studio Code``` to be able to view and edit the repositor
 
 To be able to view the HTML file on a web browser, right click on the opened page on the VSCode window and click 'Open with Live Server' (should be at the very bottom).
 
-And there you go! Reach out to me through Discord (pandulce#3536) or email (geronimo@tamu.edu) if you have any questions! :)
+And there you go! Reach out to me through Discord (arcticsck) or email (caden.kokes@tamu.edu) if you have any questions! :)
